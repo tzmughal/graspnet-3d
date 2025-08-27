@@ -67,4 +67,4 @@ Input Points: 8192
 Classes: Background (0), Screw (1)
 Example Output: 969 screw points detected in sample
 
-![](Open3D videos/Image.png)
+![Screw Segmentation Output](Open3D%20videos/Image.png)
